@@ -1,0 +1,55 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:alternatives",
+                    "children": [
+                        {
+                            "type": "minecraft:item",
+                            "name": "withersnether:nether_shard_1",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.5
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "withersnether:nether_shard_2",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.5
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "withersnether:nether_shard_3",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.5
+                                }
+                            ]
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "name": "withersnether:nether_shard_4",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.5
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+ 
+  "itemGroup.withersnether": "Wither's Pack",
+
+  
+  "block.withersnether.example_block": "Netherstone Block",
+
+
+  "item.withersnether.example_item": "Nether Relic",
+  "item.withersnether.nether_shard_1": "Nether Shard I",
+  "item.withersnether.nether_shard_2": "Nether Shard II",
+  "item.withersnether.nether_shard_3": "Nether Shard III",
+  "item.withersnether.nether_shard_4": "Nether Shard IV",
+  "item.withersnether.seal_of_the_nether": "Seal of the Nether",
+  "item.withersnether.nether_core": "Nether Core",
+  "item.withersnether.nether_essence": "Nether Essence",
+
+ 
+  "item.withersnether.seal_of_the_nether.tooltip": "A mystical artifact that unlocks the Nether's secrets.",
+  "item.withersnether.nether_core.tooltip": "The blazing heart of the Nether.",
+  "item.withersnether.nether_essence.tooltip": "The raw energy of the Nether, condensed.",
+  "item.withersnether.nether_shard_1.tooltip": "One of four shards, each holding a fragment of Nether power.",
+  "item.withersnether.nether_shard_2.tooltip": "One of four shards, each holding a fragment of Nether power.",
+  "item.withersnether.nether_shard_3.tooltip": "One of four shards, each holding a fragment of Nether power.",
+  "item.withersnether.nether_shard_4.tooltip": "One of four shards, each holding a fragment of Nether power.",
+
+  
+  "advancements.withersnether.consumed_seal.title": "Seal of the Nether Obtained",
+  "advancements.withersnether.consumed_seal.desc": "You have unlocked the secrets of the Nether!"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1E2",
+    "ENE",
+    "3E4"
+  ],
+  "key": {
+    "1": {
+      "item": "withersnether:nether_shard_1"
+    },
+    "2": {
+      "item": "withersnether:nether_shard_2"
+    },
+    "3": {
+      "item": "withersnether:nether_shard_3"
+    },
+    "4": {
+      "item": "withersnether:nether_shard_4"
+    },
+    "N": {
+      "item": "withersnether:nether_core"
+    },
+    "E": {
+      "item": "withersnether:nether_essence"
+    }
+  },
+  "result": {
+    "id": "withersnether:seal_of_the_nether",
+    "count": 1
+  }
+}

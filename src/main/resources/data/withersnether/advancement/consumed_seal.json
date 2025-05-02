@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "withersnether:seal_of_the_nether"
+    },
+    "title": {
+      "translate": "advancements.withersnether.consumed_seal.title",
+      "id": "minecraft:diamond" 
+    },
+    "description": {
+      "translate": "advancements.withersnether.consumed_seal.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "consume_seal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "item": {
+          "item": "withersnether:seal_of_the_nether"
+        }
+      }
+    }
+  }
+}
