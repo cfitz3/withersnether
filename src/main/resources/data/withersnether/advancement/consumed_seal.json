@@ -15,14 +15,15 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "criteria": {
-    "consume_seal": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "item": {
-          "item": "withersnether:seal_of_the_nether"
-        }
-      }
+"criteria": {
+  "crafted_seal": {
+    "trigger": "minecraft:recipe_unlocked",
+    "conditions": {
+      "recipe": "withersnether:seal_of_the_nether"
     }
   }
+}
+
+
+
 }
